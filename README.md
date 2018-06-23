@@ -1,3 +1,5 @@
-##Minimal-Webserver
-Minimal single threaded webserver which can serve a single request at a time . written in python . 
+## Minimal-Webserver
+Simple webserver which can serve GET requests. Implemented in python2.x. 
 
+### Usage
+`python2 server.py <port>`
